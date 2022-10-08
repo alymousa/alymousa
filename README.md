@@ -1,0 +1,5 @@
+-  Hi, I’m Aly Moussa
+-  I’m interested in Analog IC Design
+-  I’m currently studying Electronics and Electrical Communications engineering at Cairo University (Junior)
+-  I’m looking to collaborate on professional designs and research concerning analog ic design, automation and verification
+-  Reach me on alyxiety@gmail.com
